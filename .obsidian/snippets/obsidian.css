@@ -1,0 +1,27 @@
+  div.HyperMD-header.HyperMD-header-2.cm-line {
+    font-size: 1.6rem;
+    padding-bottom: .6rem;
+    margin-left: -.6rem !important;
+  }
+  div.HyperMD-header.HyperMD-header-3.cm-line {
+    font-size: 1.3rem;
+    padding-bottom: .6rem;
+    margin-left: -1.6rem;
+  }
+  div.HyperMD-header.HyperMD-header-4.cm-line {
+    font-size: 1.1rem;
+    padding-bottom: .6rem;
+  }
+  div.HyperMD-header.HyperMD-header-2.cm-line:nth-child(n+2) {
+    padding-top: 1rem;
+  }
+  div.HyperMD-header.HyperMD-header-3.cm-line:nth-child(n+2) {
+    padding-top: 1rem;
+  }
+  div.HyperMD-header.HyperMD-header-4.cm-line:nth-child(n+2) {
+    padding-top: 1rem;
+  }
+  div.cm-line {
+    line-height: 1.3rem;
+    padding-bottom: .6rem !important;
+  }
